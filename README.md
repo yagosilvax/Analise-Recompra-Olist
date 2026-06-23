@@ -1,7 +1,7 @@
 # Análise de Comportamento de Recompra | Olist
 
 ## Contexto
-Este projeto analisa os principais fatores relacionados ao comportamento de recompra dos clientes do e-commerce brasileiro Olist, sendo uma extensão do [projeto de ETL](github.com/yagosilvax/Projeto_Pipeline_ETL) do mesmo dataset.
+Este projeto analisa os principais fatores relacionados ao comportamento de recompra dos clientes do e-commerce brasileiro Olist, sendo uma extensão do [projeto de ETL](https://github.com/yagosilvax/Projeto_Pipeline_ETL) do mesmo dataset.
 
 ## Pergunta de Negócio
 > Quais clientes merecem campanha de retenção e quais não valem o esforço?
