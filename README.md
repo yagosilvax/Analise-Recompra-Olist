@@ -20,6 +20,9 @@ As três métricas comparadas entre os grupos foram:
 
 ## Resultados
 Clientes que recompraram avaliaram os produtos em média 0,06 pontos a mais (1,5% superior na escala de 1 a 5) e gastaram 19,75% menos por produto (diferença de R$20,86). Esse padrão de preço se mantém mesmo dentro das mesmas categorias de produto, o que reduz a chance de ser apenas um efeito do tipo de produto comprado. A diferença no atraso médio de entrega foi de aproximadamente 1 dia entre os grupos, insuficiente para confirmar ou descartar esse fator como relevante.
+<div align="center">
+    <img src="queries/resumo-analise.png" alt="Tabela Resumo Final" width="600">
+</div>
 
 ## Limitações
 Os resultados indicam associação entre as variáveis analisadas e o comportamento de recompra — não causalidade. Para afirmar que preço ou avaliação causam recompra, seria necessário um experimento controlado.
